@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:book"
+    },
+
+    {
+      "item": "theastronomer:sky_map"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "theastronomer:theastronomerbook",
+        "count": 1
+    }
+}
